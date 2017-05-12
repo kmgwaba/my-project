@@ -1,0 +1,17 @@
+#container{
+  background-color:#EAC086;
+}
+body{
+ font-family:"Cosmic Sans", "Ariel";
+background-color:#EAC086;
+
+}
+.links{
+  font-style:italic;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  font-size: 40px;
+}
